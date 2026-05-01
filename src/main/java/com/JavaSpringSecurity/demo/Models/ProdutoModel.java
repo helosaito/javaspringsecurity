@@ -6,7 +6,7 @@ import jakarta.persistence.Id;
 import java.math.BigDecimal;
 
 @Entity
-public class ProdutoModels {
+public class ProdutoModel {
 
     @Id
     private Long id;
